@@ -1,6 +1,7 @@
 </head>
 <body>
   <h1>To-Do List</h1>
+  <img src="https://github.com/DanielSCustodio/To-Do-List/assets/29557187/a7c0ff55-ca00-4558-8b48-c02e09784b9b" />
   <p>Este é um projeto Node.js de um To-Do List, onde você pode executar as operações de CRUD (Create, Read, Update e Delete) em tarefas, além de poder desfazer uma tarefa.</p>
   <h2>Tecnologias utilizadas</h2>
   <ul>
