@@ -34,7 +34,7 @@
   </code></pre>
   <p>Substitua <code>XXXX</code> pelas informações reais do seu banco de dados MySQL.</p>
   <ol start="3">
-    <li>Importe o arquivo <code>mvc_Tasks.sql</code> que se encontra no diretório do projeto para o seu banco de dados MySQL. Esse arquivo contém a estrutura de tabelas necessárias para o funcionamento do projeto.</li>
+    <li>Importe o arquivo <code>mvc_Tasks.sql</code> que se encontra no diretório do projeto para um banco de dados vazio. Esse arquivo contém a estrutura de tabelas necessárias para o funcionamento do projeto.</li>
   </ol>
   <h2>Como executar o projeto</h2>
   <ol>
